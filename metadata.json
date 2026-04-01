@@ -1,0 +1,9 @@
+
+{
+  "name": "Flowdex | Intelligence for Logistics",
+  "description": "Nền tảng trí tuệ giúp doanh nghiệp logistics và forwarder vận hành bằng dữ liệu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

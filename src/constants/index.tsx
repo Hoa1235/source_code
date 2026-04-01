@@ -1,5 +1,5 @@
 
-import { ShipmentData, ShipmentStatus } from './types';
+import { ShipmentData, ShipmentStatus } from '../types';
 
 export const DEMO_SHIPMENTS: Record<string, ShipmentData> = {
   'ZEN123456': {
